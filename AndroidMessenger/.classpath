@@ -6,5 +6,6 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry kind="lib" path="D:/EclipseWorkspace/AndroidMessenger/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/EclipseWorkspace/AndroidMessenger/openymsg-0.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/EclipseWorkspace/AndroidMessenger/jdom-1.1.2.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
